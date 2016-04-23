@@ -9,3 +9,5 @@
 
 	\*literal asterisks\*
 
+	![GitHub Logo](github.png)
+
