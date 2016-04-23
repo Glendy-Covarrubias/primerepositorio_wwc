@@ -7,7 +7,7 @@
 	*Musica
 	*Tecnologia
 
-	\*literal asterisks\*
 
-	![GitHub Logo](github.png)
+
+
 
